@@ -10,10 +10,15 @@ Este projeto utiliza Regressão Logística para prever se um produto será vendi
 
 ## 📂 Estrutura do Projeto
 Importação das bibliotecas: Pandas, Scikit-Learn.
+
 Criação do conjunto de dados: Dados fictícios de produtos.
+
 Divisão entre treino e teste: 80% treino, 20% teste.
+
 Treinamento do modelo: Utilizando LogisticRegression do Scikit-Learn.
+
 Avaliação do modelo: Acurácia baseada nos dados de teste.
+
 Predição: Teste com um novo produto.
 
 
