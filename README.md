@@ -24,7 +24,9 @@ Predição: Teste com um novo produto.
 
 ## 🛠️ Tecnologias Utilizadas
 Python
+
 Pandas
+
 Scikit-Learn
 
 
